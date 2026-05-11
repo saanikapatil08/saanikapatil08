@@ -1,10 +1,3 @@
-<!-- Typewriter animation banner -->
-<p align="center">
-  <img src="animation.svg" width="720" alt="Saanika Patil typewriter animation"/>
-</p>
-
-<br/>
-
 <!-- Intro GIF -->
 <p align="center">
   <img src="demo.gif" width="600" alt="Saanika Patil intro"/>
