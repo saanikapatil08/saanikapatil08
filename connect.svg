@@ -4,7 +4,7 @@
 <defs>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Special+Elite&amp;display=swap');
-    .bg { fill: #faf6f0; }
+    .bg { fill: #ffffff; }
     .border-outer { fill: none; stroke: #2a2a2a; stroke-width: 2.5; }
     .border-inner { fill: none; stroke: #2a2a2a; stroke-width: 0.8; stroke-dasharray: 4 3; }
     .heading { font-family: 'Special Elite', 'Courier New', monospace; font-size: 22px; fill: #1a1a1a; letter-spacing: 3px; }
