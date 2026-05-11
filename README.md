@@ -12,17 +12,18 @@
 
 <br/>
 
-<!-- Connect -->
+<!-- Connect visual -->
 <p align="center">
   <img src="connect.svg" width="720" alt="Connect with Saanika Patil"/>
 </p>
 
+<!-- Clickable links sitting flush below the SVG -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/saanikapatil/">
-    <img src="https://img.shields.io/badge/LinkedIn-Saanika%20Patil-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/saanikapatil/" target="_blank">
+    <img src="https://img.shields.io/badge/-%20LinkedIn%20%20Saanika%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/saanikapatil08">
-    <img src="https://img.shields.io/badge/GitHub-saanikapatil08-1a1a1a?style=flat-square&logo=github&logoColor=white"/>
+  <a href="https://github.com/saanikapatil08" target="_blank">
+    <img src="https://img.shields.io/badge/-%20GitHub%20%20saanikapatil08-1a1a1a?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
