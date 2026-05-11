@@ -1,10 +1,3 @@
-<!-- Typewriter animation banner -->
-<p align="center">
-  <img src="animation.svg" width="720" alt="Saanika Patil typewriter animation"/>
-</p>
-
-<br/>
-
 <!-- Intro video - replace YOUR_VIDEO_LINK and YOUR_THUMBNAIL_URL -->
 <p align="center">
   <a href="YOUR_VIDEO_LINK" target="_blank">
