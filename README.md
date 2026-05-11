@@ -42,17 +42,9 @@
 
 ---
 
-<!-- Connect -->
-<h2 align="center">🤝 Connect With Me</h2>
-
+<!-- Connect - vintage typewriter style -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/saanikapatil/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Saanika%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/saanikapatil08" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-saanikapatil08-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="connect.svg" width="720" alt="Connect with Saanika Patil"/>
 </p>
 
 <br/>
